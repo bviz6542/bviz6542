@@ -1,7 +1,4 @@
 ## Welcome to my page  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-
-
 [![Gmail Badge](https://img.shields.io/badge/-jwx999@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwx999@naver.com)](mailto:jwx999@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/-jwx999@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwx999@naver.com)](mailto:jwx999@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/-jwx999@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwx999@naver.com)](mailto:jwx999@naver.com)
@@ -58,3 +55,22 @@
  * Getting Started with NodeJS and the MERN Stack!!
  -->
  
+ 
+ 
+<!--
+|**제목**|레이팅|감상평|
+|:---:|---:|---|
+|복수는 나의 것|⭐⭐⭐⭐⭐|내가|
+|올드 보이|⭐⭐⭐⭐⭐|좋아하는|
+|친절한 금자씨|⭐⭐⭐⭐⭐|박찬욱 영화!|
+
+
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+
+😎숨겨진 내용😎
+
+</div>
+</details>
+-->
