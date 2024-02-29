@@ -13,12 +13,35 @@
 -->
 
 ### 🚀 Programming Languages
-<img src = 
-"https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>  <img src = 
-"https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src = 
-"https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
- 
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://developer.apple.com/swift/images/swift-logo.svg" width="40" /><br />
+      Swift
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/zKm71ITGa_T-jbyP3TLiIWCvZQTHNWdWC8EXMUPQhCkJPR5J7WOx00ICTL-hdFcsw3DpRupoO7GaW-yMB64QTHmkohZ8sUBSt_I6Rt2wk44kpvSBDL3QuoSuohWb4WA_vKswHk6v-X7i9q9GemUxTQ.webp" width="40" /><br />
+      Obj-C
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" /><br />
+      Python
+    </td>
+    <td align="center">
+      <img src="https://github.com/bviz6542/bviz6542/assets/80523328/7b4d006b-386a-4b4b-9117-bb2d17f8b281" width="40" /><br />
+      Java
+    </td>
+  </tr>
+</table>
+
 ### ✨ Technologies I Use
+<p float="left">
+  <img src="https://github.com/bviz6542/bviz6542/assets/80523328/0ca26dd5-324c-4334-a91c-fd7c06656c5e" width="40" />
+  <img src="https://i.namu.wiki/i/zKm71ITGa_T-jbyP3TLiIWCvZQTHNWdWC8EXMUPQhCkJPR5J7WOx00ICTL-hdFcsw3DpRupoO7GaW-yMB64QTHmkohZ8sUBSt_I6Rt2wk44kpvSBDL3QuoSuohWb4WA_vKswHk6v-X7i9q9GemUxTQ.webp" width="40" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" />
+  <img src="https://github.com/bviz6542/bviz6542/assets/80523328/7b4d006b-386a-4b4b-9117-bb2d17f8b281" width="40" />
+</p>
+
 <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>  <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>  <img src = 
 "https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>  <img src = 
 "https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>  <img src = 
