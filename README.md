@@ -33,7 +33,7 @@
     </td>
   </tr>
 </table>
-
+ <!--
 ### ✨ Technologies I Use
 <p float="left">
   <img src="https://github.com/bviz6542/bviz6542/assets/80523328/0ca26dd5-324c-4334-a91c-fd7c06656c5e" width="40" />
@@ -41,11 +41,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" />
   <img src="https://github.com/bviz6542/bviz6542/assets/80523328/7b4d006b-386a-4b4b-9117-bb2d17f8b281" width="40" />
 </p>
-
 <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>  <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>  <img src = 
 "https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>  <img src = 
 "https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>  <img src = 
 "https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+-->
 
 ### 💪
 
